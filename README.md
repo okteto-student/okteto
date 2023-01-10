@@ -1,4 +1,4 @@
-# Okteto: A Tool to Develop Applications on Kubernetes
+# Okteto: A Tool to Develop Applications on Kubernetes 
 
 [![CircleCI](https://circleci.com/gh/okteto/okteto.svg?style=svg)](https://circleci.com/gh/okteto/okteto)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3055/badge)](https://bestpractices.coreinfrastructure.org/projects/3055)
